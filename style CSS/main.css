@@ -162,10 +162,6 @@ html {
 
 /* Navbar */
 
-.navbar {
-    
-}
-
 .navbar__list {
     background-color: #fff;
     border-radius: 32px;
@@ -260,8 +256,4 @@ html {
     align-items: center;
     margin-right: 9px;
     cursor: pointer;
-}
-
-.navbar__search--icon {
-
 }
